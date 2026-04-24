@@ -38,3 +38,8 @@ The `face_recognition` library relies on `dlib`, which requires C++ build tools 
    python camera_test.py
    ```
    Press `q` to exit the live webcam feed.
+
+---
+
+## Credits
+**Made by Jaiditya**
