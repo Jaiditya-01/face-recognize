@@ -43,3 +43,4 @@ The `face_recognition` library relies on `dlib`, which requires C++ build tools 
 
 ## Credits
 **Made by Jaiditya**
+**Open Source Contribution**
