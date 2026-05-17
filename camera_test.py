@@ -11,7 +11,7 @@ known_names = []
 if not os.path.exists(KNOWN_FACES_DIR):
     os.makedirs(KNOWN_FACES_DIR)
 
-# Load known faces
+# Load known faces from directory
 for file in os.listdir(KNOWN_FACES_DIR):
     image_path = os.path.join(KNOWN_FACES_DIR, file)
     image = face_recognition.load_image_file(image_path)
