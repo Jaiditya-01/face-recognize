@@ -3,7 +3,7 @@ import cv2
 import os
 import numpy as np
 
-KNOWN_FACES_DIR = "database"
+KNOWN_FACES_DIR = "database" # for learning purpose
 
 known_encodings = []
 known_names = []
