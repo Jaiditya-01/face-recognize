@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 
 KNOWN_FACES_DIR = "database"
-TEST_IMAGE_PATH = "test1.jpg"  # changed to the image that exists in directory, name of demo for now
+TEST_IMAGE_PATH = "test1.jpg"  # changed to the image that exists in directory
 
 known_encodings = []
 known_names = []
